@@ -1,0 +1,45 @@
+{
+  "name": "fs-extra-promise",
+  "version": "0.0.1",
+  "description": "Node file system library and fs-extra module promisified with bluebird",
+  "main": "./lib/",
+  "author": {
+    "name": "Overlook Motel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overlookmotel/fs-extra-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/overlookmotel/fs-extra-promise/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "2.0.x",
+    "chai": "1.9.x",
+    "chai-as-promised": "4.1.x",
+    "jshint": "2.5.x"
+  },
+  "keywords": [
+    "fs",
+    "fs-extra",
+    "file",
+    "promise",
+    "bluebird",
+    "extend"
+  ],
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "readmeFilename": "README.md",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/overlookmotel/fs-extra-promise/raw/master/License"
+    }
+  ]
+}
