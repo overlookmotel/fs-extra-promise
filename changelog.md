@@ -8,7 +8,7 @@
 
 * Expose Promise object so it can be augmented (e.g. by bluebird-extra module)
 
-## Next
+## 0.1.1
 
 * Updated fs-extra dependency to v0.18.2
 * Updated bluebird dependency to v2.9.24
