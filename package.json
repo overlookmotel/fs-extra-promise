@@ -18,10 +18,10 @@
     "bluebird": "~2.9.24"
   },
   "devDependencies": {
-    "mocha": "2.0.x",
-    "chai": "1.9.x",
-    "chai-as-promised": "4.1.x",
-    "jshint": "2.5.x"
+    "mocha": "^2.2.4",
+    "chai": "^2.3.0",
+    "chai-as-promised": "^5.0.0",
+    "jshint": "^2.7.0"
   },
   "keywords": [
     "fs",

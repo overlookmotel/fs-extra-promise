@@ -14,3 +14,7 @@
 * Updated bluebird dependency to v2.9.24
 * Travis runs tests against node 0.10 and 0.12
 * Travis runs on new container infrastructure
+
+## Next
+
+* Update dev dependencies
