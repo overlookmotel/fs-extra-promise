@@ -1,6 +1,6 @@
 {
   "name": "fs-extra-promise",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Node file system library and fs-extra module promisified with bluebird",
   "main": "./lib/",
   "author": {

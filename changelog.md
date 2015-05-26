@@ -15,7 +15,7 @@
 * Travis runs tests against node 0.10 and 0.12
 * Travis runs on new container infrastructure
 
-## Next
+## 0.1.2
 
 * Update fs-extra dependency
 * Update bluebird dependency
