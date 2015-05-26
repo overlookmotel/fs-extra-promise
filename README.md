@@ -4,8 +4,10 @@
 
 ## Current status
 
-[![Build Status](https://secure.travis-ci.org/overlookmotel/fs-extra-promise.png?branch=master)](http://travis-ci.org/overlookmotel/fs-extra-promise)
-[![Dependency Status](https://david-dm.org/overlookmotel/fs-extra-promise.png)](https://david-dm.org/overlookmotel/fs-extra-promise)
+[![NPM version](https://img.shields.io/npm/v/fs-extra-promise.svg)](https://www.npmjs.com/package/fs-extra-promise)
+[![Build Status](https://img.shields.io/travis/overlookmotel/fs-extra-promise/master.svg)](http://travis-ci.org/overlookmotel/fs-extra-promise)
+[![Dependency Status](https://img.shields.io/david/overlookmotel/fs-extra-promise.svg)](https://david-dm.org/overlookmotel/fs-extra-promise)
+[![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/fs-extra-promise.svg)](https://david-dm.org/overlookmotel/fs-extra-promise)
 
 API is stable. No tests at present but it seems to work fine!
 

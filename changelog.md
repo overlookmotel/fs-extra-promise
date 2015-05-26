@@ -20,3 +20,4 @@
 * Update fs-extra dependency
 * Update bluebird dependency
 * Update dev dependencies
+* README badges use shields.io
