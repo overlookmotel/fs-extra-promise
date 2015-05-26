@@ -20,4 +20,5 @@
 * Update fs-extra dependency
 * Update bluebird dependency
 * Update dev dependencies
+* Run jshint on tests
 * README badges use shields.io

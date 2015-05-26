@@ -18,6 +18,6 @@ test:
 	fi
 
 jshint:
-	./node_modules/.bin/jshint lib
+	./node_modules/.bin/jshint lib test
 
 .PHONY: test
