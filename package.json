@@ -21,7 +21,9 @@
     "mocha": "^2.2.4",
     "chai": "^2.3.0",
     "chai-as-promised": "^5.0.0",
-    "jshint": "^2.7.0"
+    "jshint": "^2.7.0",
+    "istanbul": "^0.3.14",
+    "coveralls": "^2.11.2"
   },
   "keywords": [
     "fs",
@@ -32,7 +34,8 @@
     "extend"
   ],
   "scripts": {
-    "test": "make test"
+    "test": "make test",
+    "cover": "make cover"
   },
   "engines": {
     "node": ">=0.10.0"

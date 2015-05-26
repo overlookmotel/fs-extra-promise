@@ -8,6 +8,7 @@
 [![Build Status](https://img.shields.io/travis/overlookmotel/fs-extra-promise/master.svg)](http://travis-ci.org/overlookmotel/fs-extra-promise)
 [![Dependency Status](https://img.shields.io/david/overlookmotel/fs-extra-promise.svg)](https://david-dm.org/overlookmotel/fs-extra-promise)
 [![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/fs-extra-promise.svg)](https://david-dm.org/overlookmotel/fs-extra-promise)
+[![Coverage Status](https://img.shields.io/coveralls/overlookmotel/fs-extra-promise/master.svg)](https://coveralls.io/r/overlookmotel/fs-extra-promise)
 
 API is stable. No tests at present but it seems to work fine!
 
@@ -41,7 +42,7 @@ These are are shortcuts for doing `fs.stat()` followed by running `isDirectory()
 
 ## Tests
 
-Use `npm test` to run the tests.
+Use `npm test` to run the tests. Use `npm run cover` to check coverage.
 
 There aren't any tests at present, except for running jshint on the code.
 

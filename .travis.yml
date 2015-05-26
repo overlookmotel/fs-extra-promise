@@ -12,6 +12,14 @@ branches:
     - master
     - dev
 
+matrix:
+  fast_finish: true
+  include:
+    - node_js: "0.10"
+      env: COVERAGE=true
+  allow_failures:
+    - env: COVERAGE=true
+
 cache:
   directories:
     - node_modules

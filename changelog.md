@@ -21,4 +21,5 @@
 * Update bluebird dependency
 * Update dev dependencies
 * Run jshint on tests
+* Test code coverage & Travis sends to coveralls
 * README badges use shields.io
