@@ -20,8 +20,4 @@ matrix:
   allow_failures:
     - env: COVERAGE=true
 
-cache:
-  directories:
-    - node_modules
-
 sudo: false

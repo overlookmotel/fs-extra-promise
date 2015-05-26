@@ -23,3 +23,7 @@
 * Run jshint on tests
 * Test code coverage & Travis sends to coveralls
 * README badges use shields.io
+
+## Next
+
+* Disable Travis dependency cache
