@@ -24,6 +24,6 @@
 * Test code coverage & Travis sends to coveralls
 * README badges use shields.io
 
-## Next
+## 0.1.3
 
 * Disable Travis dependency cache
