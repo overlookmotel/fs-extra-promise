@@ -27,3 +27,7 @@
 ## 0.1.3
 
 * Disable Travis dependency cache
+
+## Next
+
+* Update fs-extra dependency
