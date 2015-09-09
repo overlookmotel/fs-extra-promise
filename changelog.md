@@ -32,7 +32,7 @@
 
 * Update fs-extra dependency
 
-## Next
+## 0.2.1
 
 * Update fs-extra dependency
 * Update bluebird dependency
