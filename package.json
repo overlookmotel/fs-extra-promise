@@ -14,8 +14,8 @@
     "url": "https://github.com/overlookmotel/fs-extra-promise/issues"
   },
   "dependencies": {
-    "bluebird": "^2.9.26"
     "fs-extra": "^0.24.0",
+    "bluebird": "^2.10.0"
   },
   "devDependencies": {
     "mocha": "^2.2.4",

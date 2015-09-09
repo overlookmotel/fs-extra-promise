@@ -35,3 +35,4 @@
 ## Next
 
 * Update fs-extra dependency
+* Update bluebird dependency
