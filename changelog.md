@@ -36,3 +36,4 @@
 
 * Update fs-extra dependency
 * Update bluebird dependency
+* Update dev dependencies
