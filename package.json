@@ -2,7 +2,7 @@
   "name": "fs-extra-promise",
   "version": "0.2.0",
   "description": "Node file system library and fs-extra module promisified with bluebird",
-  "main": "./lib/",
+  "main": "./lib/index",
   "author": {
     "name": "Overlook Motel"
   },
