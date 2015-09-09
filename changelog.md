@@ -31,3 +31,7 @@
 ## 0.2.0
 
 * Update fs-extra dependency
+
+## Next
+
+* Update fs-extra dependency
