@@ -18,11 +18,11 @@
     "bluebird": "^2.10.0"
   },
   "devDependencies": {
-    "mocha": "^2.3.2",
-    "chai": "^3.2.0",
+    "mocha": "^2.3.3",
+    "chai": "^3.3.0",
     "chai-as-promised": "^5.1.0",
     "jshint": "^2.8.0",
-    "istanbul": "^0.3.19",
+    "istanbul": "^0.3.21",
     "coveralls": "^2.11.4"
   },
   "keywords": [

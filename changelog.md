@@ -38,3 +38,7 @@
 * Update bluebird dependency
 * Update dev dependencies
 * Change `main` in package.json to `./lib/index` (closes #6)
+
+## Next
+
+* Update dev dependencies
