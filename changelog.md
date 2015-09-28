@@ -39,7 +39,7 @@
 * Update dev dependencies
 * Change `main` in package.json to `./lib/index` (closes #6)
 
-## Next
+## 0.3.0
 
 * `usePromise` method
 * Update bluebird dependency
