@@ -40,6 +40,22 @@ For convenience, additional methods `isDirectory()`, `isDirectorySync()` and `is
 
 These are are shortcuts for doing `fs.stat()` followed by running `isDirectory()` on the result returned by `stat()`.
 
+### `usePromise()` method
+
+Creates a new instance of `fs-extra-promise`, which uses the Promise implementation provided.
+
+```js
+var Bluebird = require('bluebird');
+var fs = require('fs-extra-promise').usePromise(Bluebird);
+
+// now use `fs-extra-promise` in the usual way
+var promise = fs.readFileAsync(path);
+
+console.log(promise instanceof Bluebird); // true
+```
+
+This can be useful for using a Promise implementation that supports `cls`, or an augmented version of Bluebird like [bluebird-extra](https://www.npmjs.org/package/bluebird-extra).
+
 ## Tests
 
 Use `npm test` to run the tests. Use `npm run cover` to check coverage.

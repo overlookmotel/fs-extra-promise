@@ -41,5 +41,10 @@
 
 ## Next
 
+* `usePromise` method
 * Update bluebird dependency
 * Update dev dependencies
+
+Breaking changes:
+
+* Now creates a new instance of `fs` rather than adding methods to the global `fs-extra` module
