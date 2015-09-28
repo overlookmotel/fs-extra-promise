@@ -44,6 +44,7 @@
 * `usePromise` method
 * Update bluebird dependency
 * Update dev dependencies
+* README update
 
 Breaking changes:
 
