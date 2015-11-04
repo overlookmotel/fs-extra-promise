@@ -49,3 +49,7 @@
 Breaking changes:
 
 * Now creates a new instance of `fs` rather than adding methods to the global `fs-extra` module
+
+## Next
+
+* Update fs-extra dependency
