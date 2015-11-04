@@ -53,4 +53,5 @@ Breaking changes:
 ## Next
 
 * Update fs-extra dependency
+* `usePromise` method anonymous function
 * License update
