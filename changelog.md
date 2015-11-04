@@ -53,3 +53,4 @@ Breaking changes:
 ## Next
 
 * Update fs-extra dependency
+* License update
