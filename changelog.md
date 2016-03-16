@@ -55,3 +55,7 @@ Breaking changes:
 * Update fs-extra dependency
 * `usePromise` method anonymous function
 * License update
+
+## Next
+
+* Change `main` in package.json to `./lib/` (closes #7)
