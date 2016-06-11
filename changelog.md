@@ -56,7 +56,7 @@ Breaking changes:
 * `usePromise` method anonymous function
 * License update
 
-## Next
+## 0.4.0
 
 * `.useFs()` method
 * Update `fs-extra` dependency to v0.30.0
