@@ -63,3 +63,4 @@ Breaking changes:
 * Update `bluebird` dependency to v3.4.0
 * Update dev dependencies
 * Change `main` in package.json to `./lib/` (closes #7)
+* JSDoc comments
