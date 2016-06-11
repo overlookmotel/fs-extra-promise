@@ -1,5 +1,7 @@
 test
-README.md
-changelog.md
-Makefile
 coverage
+.editorconfig
+.gitignore
+.jshintrc
+.npmignore
+.travis.yml

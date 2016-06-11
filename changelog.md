@@ -67,4 +67,5 @@ Breaking changes:
 * README update
 * Replace `Makefile` with npm scripts
 * Travis tests against node v4 + v6
+* Update `.npmignore`
 * Update license
