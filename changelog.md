@@ -64,3 +64,4 @@ Breaking changes:
 * Update dev dependencies
 * Change `main` in package.json to `./lib/` (closes #7)
 * JSDoc comments
+* README update

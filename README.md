@@ -58,7 +58,11 @@ var promise = fs.readFileAsync(path);
 console.log(promise instanceof Bluebird); // true
 ```
 
-This can be useful for using a Promise implementation that supports `cls`, or an augmented version of Bluebird like [bluebird-extra](https://www.npmjs.org/package/bluebird-extra).
+This can be useful for:
+
+* using a different version of [bluebird](https://www.npmjs.com/package/bluebird)
+* using a Promise implementation that supports `cls`
+* using an augmented version of Bluebird like [bluebird-extra](https://www.npmjs.org/package/bluebird-extra)
 
 ### `useFs()` method
 
