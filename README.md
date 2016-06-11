@@ -60,6 +60,16 @@ console.log(promise instanceof Bluebird); // true
 
 This can be useful for using a Promise implementation that supports `cls`, or an augmented version of Bluebird like [bluebird-extra](https://www.npmjs.org/package/bluebird-extra).
 
+### `useFs()` method
+
+Creates a new instance of `fs-extra-promise`, promisifying the provide version of [fs-extra](https://www.npmjs.org/package/fs-extra).
+
+Most useful if you want to use a specific version of [fs-extra](https://www.npmjs.org/package/fs-extra).
+
+```js
+var fs = require('fs-extra-promise').useFs(require('fs-extra'));
+```
+
 ## Tests
 
 Use `npm test` to run the tests. Use `npm run cover` to check coverage.

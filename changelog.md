@@ -58,6 +58,7 @@ Breaking changes:
 
 ## Next
 
+* `.useFs()` method
 * Update `fs-extra` dependency to v0.30.0
 * Update `bluebird` dependency to v3.4.0
 * Update dev dependencies
