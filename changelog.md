@@ -66,4 +66,5 @@ Breaking changes:
 * JSDoc comments
 * README update
 * Replace `Makefile` with npm scripts
+* Travis tests against node v4 + v6
 * Update license
