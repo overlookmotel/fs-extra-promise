@@ -58,4 +58,5 @@ Breaking changes:
 
 ## Next
 
+* Update `bluebird` dependency to v3.4.0
 * Change `main` in package.json to `./lib/` (closes #7)
