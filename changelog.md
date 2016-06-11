@@ -66,3 +66,4 @@ Breaking changes:
 * JSDoc comments
 * README update
 * Replace `Makefile` with npm scripts
+* Update license
