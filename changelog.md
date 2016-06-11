@@ -58,5 +58,6 @@ Breaking changes:
 
 ## Next
 
+* Update `fs-extra` dependency to v0.30.0
 * Update `bluebird` dependency to v3.4.0
 * Change `main` in package.json to `./lib/` (closes #7)
