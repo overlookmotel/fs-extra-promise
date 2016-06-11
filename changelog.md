@@ -65,3 +65,4 @@ Breaking changes:
 * Change `main` in package.json to `./lib/` (closes #7)
 * JSDoc comments
 * README update
+* Replace `Makefile` with npm scripts

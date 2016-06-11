@@ -1,5 +1,5 @@
 script:
-  - "make test"
+  - "npm test"
 
 language: node_js
 
