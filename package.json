@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "fs-extra": "^0.30.0",
-    "bluebird": "^3.4.0"
+    "bluebird": "^3.4.4"
   },
   "devDependencies": {
     "mocha": "^2.5.3",
