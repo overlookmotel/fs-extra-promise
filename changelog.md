@@ -70,7 +70,7 @@ Breaking changes:
 * Update `.npmignore`
 * Update license
 
-## Next
+## 0.4.1
 
 * Update `bluebird` dependency to v3.4.6
 * Update dev dependencies
