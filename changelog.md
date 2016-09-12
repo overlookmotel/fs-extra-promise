@@ -69,3 +69,7 @@ Breaking changes:
 * Travis tests against node v4 + v6
 * Update `.npmignore`
 * Update license
+
+## Next
+
+* Update `bluebird` dependency to v3.4.6
