@@ -74,3 +74,4 @@ Breaking changes:
 
 * Update `bluebird` dependency to v3.4.6
 * Update dev dependencies
+* Ignore `.DS_Store` in `.gitignore`
