@@ -76,3 +76,7 @@ Breaking changes:
 * Update dev dependencies
 * Ignore `.DS_Store` in `.gitignore`
 * Travis CI runs on all branches (to enable `greenkeeper.io`)
+
+## Next
+
+* Skip Travis CI runs on release tags
