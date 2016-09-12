@@ -73,3 +73,4 @@ Breaking changes:
 ## Next
 
 * Update `bluebird` dependency to v3.4.6
+* Update dev dependencies
