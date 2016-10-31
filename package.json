@@ -42,7 +42,7 @@
     "cover-main": "COVERAGE=true ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- -R spec 'test/**/*.test.js'"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">= 4"
   },
   "readmeFilename": "README.md",
   "license": "MIT"
