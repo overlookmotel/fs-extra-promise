@@ -83,3 +83,4 @@ Breaking changes:
 * Update `bluebird` dependency to v3.5.0
 * Drop support for Node versions before 4.0
 * Skip Travis CI runs on release tags
+* Update license
