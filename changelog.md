@@ -86,3 +86,7 @@ Breaking changes:
 * Refactor to ES6 + code style
 * Skip Travis CI runs on release tags
 * Update license
+
+## Next
+
+* Update dev dependencies

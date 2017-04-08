@@ -18,12 +18,12 @@
     "bluebird": "^3.5.0"
   },
   "devDependencies": {
-    "mocha": "^3.0.2",
+    "mocha": "^3.2.0",
     "chai": "^3.5.0",
-    "chai-as-promised": "^5.3.0",
-    "jshint": "^2.9.3",
+    "chai-as-promised": "^6.0.0",
+    "jshint": "^2.9.4",
     "istanbul": "^0.4.5",
-    "coveralls": "^2.11.12"
+    "coveralls": "^2.13.0"
   },
   "keywords": [
     "fs",
