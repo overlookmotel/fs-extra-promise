@@ -77,7 +77,7 @@ Breaking changes:
 * Ignore `.DS_Store` in `.gitignore`
 * Travis CI runs on all branches (to enable `greenkeeper.io`)
 
-## Next
+## 1.0.0
 
 * Update `fs-extra` dependency to v2.1.2
 * Update `bluebird` dependency to v3.5.0
