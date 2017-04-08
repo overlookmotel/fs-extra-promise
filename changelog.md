@@ -79,4 +79,5 @@ Breaking changes:
 
 ## Next
 
+* Update `fs-extra` dependency to v2.1.2
 * Skip Travis CI runs on release tags
