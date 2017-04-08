@@ -87,6 +87,6 @@ Breaking changes:
 * Skip Travis CI runs on release tags
 * Update license
 
-## Next
+## 1.0.1
 
 * Update dev dependencies
