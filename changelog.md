@@ -82,5 +82,6 @@ Breaking changes:
 * Update `fs-extra` dependency to v2.1.2
 * Update `bluebird` dependency to v3.5.0
 * Drop support for Node versions before 4.0
+* Refactor to ES6 + code style
 * Skip Travis CI runs on release tags
 * Update license
