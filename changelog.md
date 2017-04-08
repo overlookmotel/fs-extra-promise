@@ -80,4 +80,5 @@ Breaking changes:
 ## Next
 
 * Update `fs-extra` dependency to v2.1.2
+* Update `bluebird` dependency to v3.5.0
 * Skip Travis CI runs on release tags
