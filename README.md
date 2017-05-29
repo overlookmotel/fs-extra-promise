@@ -1,5 +1,7 @@
 # fs-extra-promise.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/fs-extra-promise.svg)](https://greenkeeper.io/)
+
 # Node file system library and fs-extra module promisified with bluebird
 
 ## Current status
