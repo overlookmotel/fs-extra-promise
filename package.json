@@ -14,12 +14,12 @@
     "url": "https://github.com/overlookmotel/fs-extra-promise/issues"
   },
   "dependencies": {
-    "fs-extra": "^2.1.2",
+    "fs-extra": "^3.0.1",
     "bluebird": "^3.5.0"
   },
   "devDependencies": {
     "mocha": "^3.2.0",
-    "chai": "^3.5.0",
+    "chai": "^4.0.0",
     "chai-as-promised": "^6.0.0",
     "jshint": "^2.9.4",
     "istanbul": "^0.4.5",
